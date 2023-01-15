@@ -1,0 +1,4 @@
+# git ignore files
+
+## local files used for initial development/testing
+sample_usage.py
