@@ -1,4 +1,5 @@
-# git ignore files
+# vscode workspace settings
+.vscode/
 
-## local files used for initial development/testing
+# local files used for initial development/testing
 sample_usage.py
